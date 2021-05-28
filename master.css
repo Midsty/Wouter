@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #222;  
+  padding: 10px 2px 0px 2px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  display: inline;
+  float: left;
+  padding: 25px 20px 25px 20px;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  background-color: #333;
+}
+
+li a {
+  display: block;
+  text-decoration: none;
+  color: white;
+}
+
+li:hover {
+  background-color: #111;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 30px;
+}
+
+
+
+h3 {
+  text-align: center;
+  color: white;
+}
+
+h2 {
+  text-align: center;
+  color: white;
+}
+
+p.home {
+  font-size: 50px;
+}
+
+p {
+  color: white;
+  font-family: 'PT Serif', serif;
+  text-align: center;
+  font-size: 30px;
+}
+
+#deborg {
+  height: 290px;
+  border-style: solid;
+  border-color: white;
+}
+
+#nassau {
+  height: 290px;
+  border-style: solid;
+  border-color: white;
+}
+
+#drenthe {
+  height: 290px;
+  border-style: solid;
+  border-color: white;
+}
+
+.schooltekst {
+  font-size: 25px;
+  margin-top: 25px;
+}
+
+#hobbyimg {
+  border-style: solid;
+  color: white;
+}
+
+.music {
+  display: none;
+}
+
+#overmij {
+  border-style: solid;
+  border-color: white;
+  height: 350px;
+  width: 350px;
+}
+
+#artist {
+  border-style: solid;
+  border-color: white;
+}
+
+#familietekst {
+  font-size: 25px;
+}
+
+.artistimg {
+  height: 260px;
+  border-style: solid;
+  border-color: white;
+}
+.artisttekst {
+  font-size: 35px;
+  text-align: center;
+}
